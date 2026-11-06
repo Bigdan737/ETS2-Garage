@@ -2,11 +2,13 @@
 
 Редактор профилей Euro Truck Simulator 2 для Windows x64. Здесь публикуются готовые сборки и обновления.
 
-[Скачать последнюю версию](https://github.com/Bigdan737/ETS2-Garage/releases/latest)
+## Установка
 
-1. Скачай архив **ETS2-Garage-X.Y.Z-win-x64.zip**.
-2. Распакуй его целиком и запусти **ETS2 Garage.exe**.
-3. Оставь папки **ui** и **tools** рядом с приложением. Для запуска нужен Microsoft Edge WebView2 Runtime.
+Скачай [ETS2 Garage Setup](https://github.com/Bigdan737/ETS2-Garage/releases/download/v0.2.1/ETS2-Garage-Setup.exe) и нажми «Установить». Установщик найдёт актуальную сборку на GitHub, установит WebView2 при необходимости и добавит ETS2 Garage в меню «Пуск». Ярлык на рабочем столе и запуск после установки можно отключить в окне установки.
+
+Для установки нужен интернет. Удаление доступно в настройках Windows в списке установленных приложений.
+
+[Переносная сборка в ZIP](https://github.com/Bigdan737/ETS2-Garage/releases/latest) также доступна. Распакуй весь архив, сохрани папки ui и tools рядом с ETS2 Garage.exe и запусти приложение.
 
 ## Обновления
 
